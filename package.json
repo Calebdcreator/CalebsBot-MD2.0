@@ -1,0 +1,25 @@
+{
+  "name": "calebsbot-md2.0",
+  "version": "1.0.0",
+  "description": "CALEBSBOT-MD2.0 - A powerful multi-purpose WhatsApp MD bot built from scratch by Calebdcreator.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "whatsapp-bot",
+    "baileys",
+    "MD-bot",
+    "caleb",
+    "calebsbot",
+    "automation",
+    "node"
+  ],
+  "author": "Calebdcreator",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.7.4",
+    "pino": "^8.0.0"
+  }
+}
